@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="enter_your_task">Enter Your Task</string>
+    <string name="description">Priority: high, medium, low</string>
+    <string name="update_your_details">Update Your Task</string>
+    <string name="update_button">UPDATE</string>
+    <string name="delete_button">DELETE</string>
+    <string name="todo_list">ToDo List</string>
+    <string name="save_button">SAVE</string>
+    <string name="your_task_will_go_here">your task will go here</string>
+    <string name="plus">+</string>
+    <string name="make_your_life_easy">Make Your Life Easy</string>
+</resources>
